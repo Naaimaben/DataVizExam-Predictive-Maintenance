@@ -3,7 +3,7 @@
 
 Work by: Naaima Ben Kadour 
 
-Supervised by Professor Mohammed EL HAJJI & Professor Tarek AIT BAHA
+Supervised by Professor Mohamed EL HAJJI & Professor Tarek AIT BAHA
 
 ## Dashboard
 
