@@ -7,4 +7,4 @@ Supervised by Professor Mohammed EL HAJJI & Professor Tarek AIT BAHA
 
 ## Dashboard
 
-![alt text](https://github.com/Naaimaben/DataVizExam-Predictive-Maintenance/blob/master/Dashboard/DataVizExam-Predictive-Maintenance.PNG)
+![alt text](https://https://github.com/Naaimaben/DataVizExam-Predictive-Maintenance/blob/main/Dashboard/DataVizExam-P)
